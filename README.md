@@ -8,6 +8,6 @@ technologies used
 
 Purpose of project
 
-develop ann interactive Web tutorial using the listed technologies
+develop an interactive Web tutorial using the listed technologies
 
 i am looking for collaborators to work with me on this project
