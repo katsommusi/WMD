@@ -7,5 +7,7 @@ technologies used
 4. Javascript
 
 Purpose of project
+
 develop ann interactive Web tutorial using the listed technologies
+
 i am looking for collaborators to work with me on this project
